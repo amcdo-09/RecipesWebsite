@@ -13,3 +13,8 @@ img {
     height: auto;
     width: 800px;
 }
+
+p {
+    font-weight: bolder;
+    color: brown
+}
