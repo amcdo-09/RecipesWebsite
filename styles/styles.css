@@ -1,0 +1,15 @@
+#title {
+    background-color: rgb(34, 16, 196);
+    color: white;
+    font-size: 50px;
+}
+
+.bold-text {
+    background-color: green;
+    font-size: 25px;
+}
+
+img {
+    height: auto;
+    width: 800px;
+}
