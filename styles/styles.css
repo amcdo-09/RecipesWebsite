@@ -1,20 +1,49 @@
 #title {
     background-color: rgb(34, 16, 196);
     color: white;
+    padding: 20px;
+    height: 150px;
+    width: 700px;
+    border: 20px solid #d18c78;
+    margin: 20px;
     font-size: 50px;
+    font-style: oblique;
+    box-sizing: border-box;
 }
 
-.bold-text {
-    background-color: green;
+.springer,
+.germansheperd,
+.kingcharles {
+    background-color: #ff090945;
     font-size: 25px;
+    width: 300px;
+    margin-bottom: 10px;
 }
 
 img {
     height: auto;
     width: 800px;
+    margin: 20px;
 }
 
-p {
+.bold-text,
+.normal-text,
+.soft-text
+ {
     font-weight: bolder;
     color: brown
 }
+
+.bold-text {
+    font-style: oblique;
+}
+
+.normal-text {
+    background-color: rgb(95, 226, 43);
+}
+
+.soft-text {
+    font-style: italic;
+    background-color: black;
+}
+
